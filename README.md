@@ -7,6 +7,7 @@ without delay let's check some Results....
 <br>
 <b>MAKING CONNECTION</b>
 <br>Before login...
-![Screenshot (68)](https://user-images.githubusercontent.com/99072350/153239484-80e92f2b-511a-4299-8589-404b88cf4bc4.png)</br>
+![Screenshot (68)](https://user-images.githubusercontent.com/99072350/153239763-4e6d3286-f6e3-4721-81e7-40abb27f45a1.png)
+
 After Login<br>
-![Screenshot (69)](https://user-images.githubusercontent.com/99072350/153239497-751623e8-2233-43a0-bd04-a10530af9c5c.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/99072350/153239794-e171b45e-02cf-4718-83de-07482b71ff7e.png)
