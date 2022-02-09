@@ -1,0 +1,48 @@
+<html>
+<body>
+<style>
+  .table {border:1px solid black; font-family:Arial; margin-left:auto; margin-right: auto;background-color:silver; 
+           width:270px;}
+  .U_N{padding-left: 1em; width:250px;}
+  .L_P{padding-left: 1em; width:260px; background-color:cyan}
+  .F_P{width:260px;background-color:black;color: white;}
+ .I_N{width: 225px;} 
+</style>
+<form method="POST">
+<table class="table">
+<tr><th>Member Login<br></br><th></tr>
+<tr><td>
+<tr><td>
+<button><i class='fas fa-user'></i></i></button>
+<input type="text" placeholder="Username" class="I_N" name="username" required>
+</td></tr>
+<tr><td>
+<button><i class='fas fa-lock'></i></button>
+<input type="password" placeholder="Password" class="I_N" name="password" required>
+</td></tr>
+<tr><td>
+<button type="submit" class="L_P" name="login">Login</button><br></br>
+</td></tr>
+<tr><td><input type="submit" value="forget password?" name="forgetpass" class="F_P"></td></tr>
+</td></tr>
+</table>
+</form>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<?php
+$servername = "localhost";
+$username = "root";
+$password ="";
+$conn = new mysqli($servername, $username, $password);
+if(isset($_POST['login'])){
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+echo "Connected successfully";
+}else if(isset($_POST['forgetpass'])){
+    echo "<a href='https://github.com/Loftyvirus'>Follow to fix!!</a>";
+}
+?>
+
+
+</body>
+</html>
