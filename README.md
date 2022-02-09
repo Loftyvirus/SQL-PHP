@@ -4,8 +4,7 @@ IN PREVIOUS REPOSITORY <a href="https://github.com/Loftyvirus/PHP-project-69">ON
 This repository is the combination of SQL TO PHP and managing databases.</br>
 The first priority is to know how can we connect our database to php and soon....
 without delay let's check some Results....
-<br>MAKING CONNECTION</br>
-Before login...<br>
-![Screenshot (68)](https://user-images.githubusercontent.com/99072350/153239763-4e6d3286-f6e3-4721-81e7-40abb27f45a1.png)</br>
-After Login<br>
-![Screenshot (69)](https://user-images.githubusercontent.com/99072350/153239794-e171b45e-02cf-4718-83de-07482b71ff7e.png)</br>
+<br>
+MAKING CONNECTION </br>
+Before login</br>
+![Screenshot (68)](https://user-images.githubusercontent.com/99072350/153240368-b4101fa8-514f-4c4c-83d7-77291022086d.png)
